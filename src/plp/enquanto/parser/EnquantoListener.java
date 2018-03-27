@@ -1,4 +1,4 @@
-// Generated from Enquanto.g4 by ANTLR 4.7
+// Generated from Enquanto.g4 by ANTLR 4.7.1
 package plp.enquanto.parser;
 import org.antlr.v4.runtime.tree.ParseTreeListener;
 

@@ -1,1 +1,8 @@
-exiba "ok. Funciona"; escreva 10
+exiba "ok. Funciona"; 
+escreva 10 ; 
+escreva 10+4 ; 
+escreva 10-4 ; 
+escreva 10*4 ; 
+escreva 2/2 ; 
+exiba "Exponenciação";
+escreva 2^3 

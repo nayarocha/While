@@ -1,12 +1,12 @@
 a := 10 / 2;
 
-se a<>5 entao 
+se a< >5 entao 
   exiba "'/' erro"
 senao skip;
 
 
 b := 3^2;
-se b<>9 entao 
+se b< >9 entao 
   exiba "'^' erro 1"
 senao skip;
 
