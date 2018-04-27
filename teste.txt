@@ -47,3 +47,25 @@ senaose nota > 3 entao
   exiba "Recuperação"
 senao
   exiba "Reprovado
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

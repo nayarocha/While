@@ -5,4 +5,22 @@ escreva 10-4 ;
 escreva 10*4 ; 
 escreva 2/2 ; 
 exiba "Exponenciação";
-escreva 2^3 
+escreva 2^3 ;
+exiba "-------------------------";
+
+x :=10;
+escreva x;
+
+a :=10/2;
+escreva a;
+
+se a<>5 entao 
+  exiba "'/' erro"
+senao skip;
+
+exiba "-------------------------";
+
+b := 3^2;
+se b<>9 entao 
+  exiba "'^' erro 1"
+senao skip
